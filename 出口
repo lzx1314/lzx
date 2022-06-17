@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!-- saved from url=(0131)https://jksb.v.zzu.edu.cn/vls6sss/zzujksb.dll/gettongxing?ptopid=tEC94E910E798416796E0A024A3D85280&door=0017&sid=210906201311660511 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=350, initial-scale=1.0, maximum-scale=1.0, user-scalable=1.0, user-scalable=no;">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<meta http-equiv="expires" content="Wed, 26 Feb 2007 08:21:57 GMT">
+<title>郑州大学数据中台2021</title>
+<link rel="stylesheet" type="text/css" href="./郑州大学数据中台2021_files/_xwss_2017.css"><style>
+#bak_0 {MARGIN:0 auto; left: 0;WIDTH: 350px; min-HEIGHT:540px;}
+
+</style>
+
+</head>
+<body>
+<form method="POST" name="myform52" action="">
+<div id="bak_0">  
+  <div style="width:100%;height:88px;background:url(https://jksb.v.zzu.edu.cn/imagesss/title316_32571.png);"></div><div style="width:100%;height:7px;BACKGROUND-IMAGE: url(/images/split5.png)"></div><div style="width:100%; min-height:90px;"><div style="width:100%;height:6px;text-align:left;"></div>
+  <div style="width:100%;min-height:26px;line-height:26px;font-size:16px;color:#00c;font-weight:500;font-family:黑体;BACKGROUND-IMAGE:url(https://jksb.v.zzu.edu.cn//imagesss/sf_sheng4.png)"><span style="color:#00a">法学院.王雅倩</span>　<span style="font-size:12px;;color:#00c;">〖切换账号〗</span><br />主校区大门东门.<span style="background-color:#c0c;color:#ff0">出口</span><br>身份：批准出入校园学生</span><span style="font-size:12px;color:#333;"id=current_date>(05月26日 21:12获取)</span><br><span style="font-size:12px;color:#666">关注“郑州大学网络管理中心”微信公众号可提醒健康打卡</span></div></div>
+<div style="width: 100%; height: 15px; background-color: rgb(170, 176, 254);" id="bian92a"></div>
+<div style="width:100%;height:280px;">
+<div style="width: 15px; height: 100%; background-color: rgb(170, 176, 254); float: left;" id="bian92b1"></div>
+<div style="width:320px;height:100%;float:left;text-align:center;">
+<img src="http://m.qpic.cn/psc?/V12cVMiP3wkS6n/ruAMsa53pVQWN7FLK88i5uSeY4HYvGPvF2hXkm7.xLU8LyyfcZxC0RaLrG7*FSeRWLhoM8HG.U*5xCgnnLO8NiWcK7HPlWBzsLw7myjCYzU!/b&bo=pAKEAwAAAAABFxE!&rf=viewer_4" style="height:280px;border:0px;">
+</div>
+<div style="width: 14px; height: 100%; background-color: rgb(170, 176, 254); float: right;" id="bian92b2"></div>
+</div>
+<div style="width: 100%; height: 15px; background-color: rgb(170, 176, 254);" id="bian92c"></div><div style="width:100%;min-height:18px;line-height:18px;font-size:12px;color:#666;text-align:center">郑州大学疫情防控领导小组、保卫处、信息化办公室</div><div style="width:100%;height:18px;line-height:18px;font-size:12px;color:#666;text-align:center" id="msg11">定位：河南省郑州市中原区中原西路233号附近　（<span style="color:#b00">未在设定区域内扫码</span>）</div>
+</div>
+
+<div style="width:1px;height:1px;">
+  <iframe name="zzj_fun_426" id="zzj_fun_426s" src="./郑州大学数据中台2020_files/getsomething.html" marginwidth="0" marginheight="0" height="100%" width="100%" scrolling="no" border="0" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<input type="hidden" name="ptopid" value="sD260D40EC9014043820485386AAE16BE"><input type="hidden" name="sid" value="220525220817015857"></form>
+
+<div style="width:100%;height:50px;"></div>
+
+</body></html>
+<script language="javascript">
+  function zzjCallOneUrl(us){
+    document.getElementById("zzj_fun_426s").src=us;
+  }
+  var timeID=0;
+var tt1=599;
+tt2=0;
+tt3=0;
+var timeID=setInterval("hnceTimer()",1000);
+function hnceTimer(){
+  tt1--;
+  if (tt1>=0){
+if ((tt1%2)==1){
+  document.getElementById('bian92a').style.backgroundColor="#aab0fe";
+  document.getElementById('bian92b1').style.backgroundColor="#aab0fe";
+  document.getElementById('bian92b2').style.backgroundColor="#aab0fe";
+  document.getElementById('bian92c').style.backgroundColor="#aab0fe";
+}else{
+  document.getElementById('bian92a').style.backgroundColor="#0012ff";
+  document.getElementById('bian92b1').style.backgroundColor="#0012ff";
+  document.getElementById('bian92b2').style.backgroundColor="#0012ff";
+  document.getElementById('bian92c').style.backgroundColor="#0012ff";
+}
+  tt2=tt1 % 60;
+  tt3=(tt1-tt2)/60;
+  document.getElementById("tim317").innerHTML=tt3+"分"+tt2+"秒";
+  }else{document.getElementById("tim317").innerHTML="已作废";}
+}
+function getTime() {
+  var myDate = new Date();
+  var m = myDate.getMonth() + 1<10?'0'+ (myDate.getMonth() + 1):myDate.getMonth() + 1;
+  var d = myDate.getDate()<10?'0'+myDate.getDate():myDate.getDate();
+  var h = myDate.getHours()<10?'0'+myDate.getHours():myDate.getHours();
+  var ms = myDate.getMinutes()<10?'0'+myDate.getMinutes():myDate.getMinutes();
+  document.getElementById("current_date").innerHTML =  '(' + m + '月' + d + '日' + '  ' + h +':'+ ms + '获' +'取'+')';
+}
+getTime();
+</script>

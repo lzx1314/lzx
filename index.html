@@ -4,14 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>创建</title>
+    <title>Document</title>
 </head>
 <body>
-    <a href="\lzx\12\出口.html">
-       <p style="text-align: center;">出口</p>
-    </a>
-    <a href="\lzx\12\进口.html">
-        <p style="text-align: center;">进口</p>
-    </a>
+    <input type="button" value="入口" onclick="tiaozhuan1()">
+    <input type="button" value="出口" onclick="tiaozhuan2()">
+    <script type="text/javascript">
+        function tiaozhuan1(){
+            window.location.replace("\lzx\12\text1.html")
+        }
+        function tiaozhuan2(){
+            window.location.replace("\lzx\12\text2.html")
+        }
+    </script>
 </body>
 </html>

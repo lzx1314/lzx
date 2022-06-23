@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="myform12" name="myform12" action="出口3.html" method="get">
+         haoma<input type="text" name="ma" id="ma" value=""/>
+         tulian<input type="text" name="lianjie" id="lianjie" value=""/>
+         xuey<input type="text" name="xueyuan" id="xuyuan" value=""/>
+         mingc<input type="text" name="mingcheng" id="mingcheng" value=""/>
+         mi<input type="text" name="mima " id="mima" value=""/>
+         <input type="button" value="生成" onclick="subfor()" />
+    </form>
+    <script type="text/javascript">
+        function subfor(){
+             var mima = document.getElementById("mima").value;
+             if (mima == 1793 ){
+                 document.getElementById("myform12").submit();
+             return;
+            }
+        }
+    </script>
+</body>
+
+</html>
